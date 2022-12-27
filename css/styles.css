@@ -1,0 +1,172 @@
+:root {
+    --first-title-color: #FFFFFF;
+    --second-title-color:  #2E2F42;
+    --third-title-color:#434455;
+    
+}
+
+body {
+font-family:"Open Sans", sans-serif;
+color:aqua
+
+}
+.list {
+  list-style: none;
+}
+.link {
+   text-decoration: none;
+}
+
+    /*------------ HEADER------------- */
+
+.header {
+    
+
+}
+  
+.header-navigation {
+}
+.text-logo {
+}
+.header-list {
+}
+.header-item {
+}
+.header-link {
+font-family: 'Roboto';
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color:var(--second-title-color)
+}
+
+.header-link:hover,
+.header-link:focus{
+  color: #4D5AE5;
+}
+
+  
+
+.header-mail {
+font-family: 'Roboto';
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color:var(--third-title-color)
+}
+.header-tel {
+font-family: 'Roboto';
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color:var(--third-title-color)
+}
+    /*----------- HERO----------*/
+
+.hero {
+    background-color: aquamarine;
+}
+.hero-title {
+ font-family: 'Roboto';
+font-weight: 500;
+font-size: 56px;
+line-height: 1.07;
+text-align: center;
+letter-spacing: 0.02em;
+color:var(--first-title-color)
+
+}
+.hero-btn {
+font-family: inherit;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.18;
+display: flex;
+align-items: center;
+letter-spacing: 0.04em;
+color: #FFFFFF;
+cursor: pointer;
+
+}
+
+.hero-after-title {
+font-family: 'Roboto';
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color:var(--second-title-color)
+
+}
+.hero-text{
+font-family: 'Roboto';
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color:var(--third-title-color)
+}
+
+    /*----------- ABOUT------------ */
+    .about{
+
+    }
+
+.about-title {
+font-family: 'Roboto';
+font-weight: 500;
+font-size: 36px;
+line-height: 1.1;
+text-align: center;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+color:var(--second-title-color)
+}
+.about-list {
+}
+.list {
+}
+
+
+
+/* -------------TEAM--------------- */
+.team{
+
+}
+
+.team-title {
+font-family: 'Roboto';
+font-weight: 500;
+font-size: 36px;
+line-height: 1.1;
+text-align: center;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+color:var(--second-title-color)
+}
+.team-list {
+}
+.list {
+}
+.team-item {
+}
+.team-after-title {
+font-family: 'Roboto';
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color:var(--second-title-color)
+}
+.team-text {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color:var(--third-title-color)
+}
