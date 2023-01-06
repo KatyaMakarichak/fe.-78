@@ -154,7 +154,9 @@ color:var(--second-title-color)
 .list {
 }
 .team-item {
-}
+    
+} 
+
 .team-after-title {
 font-family: 'Roboto';
 font-weight: 500;
